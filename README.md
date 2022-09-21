@@ -8,3 +8,7 @@ Activity 1:
 Activity 2:
 
 ![Lab2Activity2](https://user-images.githubusercontent.com/44185385/191616200-fc0644cc-7761-4537-90e2-538f3c4b5269.png)
+
+Activity 3:
+
+![image](https://user-images.githubusercontent.com/44185385/191620318-222c421f-b02a-49e7-859e-c02a1e171dea.png)
